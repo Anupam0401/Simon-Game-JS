@@ -18,7 +18,7 @@ body {
 }
 
 .btn {
-  margin: 25px;
+  margin: 15px;
   display: inline-block;
   height: 200px;
   width: 200px;
@@ -53,6 +53,7 @@ body {
 }
 
 footer {
+  margin-top:20px;
   color: #f8eded;
   font-family: 'Lobster Two', cursive;
 }
