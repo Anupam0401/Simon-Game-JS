@@ -1,7 +1,7 @@
 This is a classic "Simon" game written in HTML, CSS and JS.
 This is single player game which tests your memory power.
 
-To Play the Game, access the website at : 
+To Play the Game, access the website at : https://anupam0401.github.io/The-Simon-Game/
 
 # The-Simon-Game
 Simon is an electronic game of memory skill invented by Ralph H. Baer and Howard J. Morrison.
