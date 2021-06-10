@@ -17,4 +17,5 @@ It is a classic Arcade game and super fun to play.
 ***Each level proceeds by adding a note to the previous existing sequence of notes and,
 to advance each level, the player has to repeat the exact sequence of notes Simon has said starting from Level 1.***
 
-> Enjoy!
+
+- Enjoy! :🎲
