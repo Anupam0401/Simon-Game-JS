@@ -39,15 +39,14 @@ function checkAnswer() {
         }, 1000);
     } else {
         console.log("Wrong!");
+        $("#level-title").text("GAME OVER :(");
+        playSound("wrong");
+        $("body").addClass("game-over");
+        
         setTimeout(function () {
-            $("#level-title").text("GAME OVER");
-            playSound("wrong");
-            $("body").addClass("game-over");
-            startOver();
-            setTimeout(function () {
-                $("body").removeClass("game-over");
-            }, 100);
-        }, 1000);
+            $("body").removeClass("game-over");
+        }, 200);
+        startOver();
     }
 }
 
@@ -57,9 +56,9 @@ function startOver() {
     userClickedPattern = [];
     firstKeyPress = false;
     setTimeout(function () {
-        $("#level-title").text("Level 1");
-        nextSequence();
-    }, 1000);
+        $("#level-title").text("Press any Key to Restart");
+    },1000);
+    
 }
 
 $(".btn").click(function () {
