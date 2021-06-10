@@ -20,8 +20,8 @@ body {
 .btn {
   margin: 15px;
   display: inline-block;
-  height: 160px;
-  width: 1600px;
+  height: 200px;
+  width: 200px;
   border: 10px solid black;
   border-radius: 20%;
 }
@@ -63,7 +63,7 @@ body {
 }
 
 footer {
-  margin-top:25px;
+  margin-top:20px;
   color: #deedf0;
   font-family: 'Lobster Two', cursive;
 }
