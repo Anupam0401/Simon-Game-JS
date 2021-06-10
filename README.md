@@ -5,7 +5,7 @@ To Play the Game, access the website at : https://anupam0401.github.io/The-Simon
 
 # The-Simon-Game
 Simon is an electronic game of memory skill invented by Ralph H. Baer and Howard J. Morrison.
-It is a classic Arcade game which is super fun to play.
+It is a classic Arcade game and super fun to play.
 
 
 How to Play: 
