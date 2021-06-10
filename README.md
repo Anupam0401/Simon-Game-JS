@@ -1,5 +1,5 @@
 This is a classic "Simon" game written in HTML, CSS and JS.
-This is single player game which tests your memory power.
+It's single player game which tests your memory power.
 
 To Play the Game, access the website at : https://anupam0401.github.io/The-Simon-Game/
 
