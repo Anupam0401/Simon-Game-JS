@@ -52,8 +52,18 @@ body {
   background-color: grey;
 }
 
+.tutorial {
+  width: 20%;
+  position: absolute;
+  bottom: 320px;
+  left: 120px;
+  font-family: 'Press Start 2P', cursive;
+  text-decoration: none;
+  color: #96a6eb;
+}
+
 footer {
   margin-top:25px;
-  color: #f8eded;
+  color: #deedf0;
   font-family: 'Lobster Two', cursive;
 }
